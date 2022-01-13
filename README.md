@@ -57,6 +57,21 @@ For a couple of years PCS produced UNIX workstations based on Motorola, Intel 43
 And then of course appeared the IBM PC. PCS and many other companies disappeared or stopped producing Unix workstations. Nevertheless, one could say that these were
 the best days of my life, at least as far as the work is concerned. I stopped working as a hardware oriented guy, developping drivers and adapting to new machines, 
 frequently sitting with the hardware engineers in front of a digital analyzer.
-## IXOS ##
+## IXOS, Opentext, Archives ##
 One of the PCS founders had founded a new software company called IXOS. When I joined the company, it was doing projects and courses. 
-But then it started to develop products,
+But then it started to develop products, in the archive field. We stored files on first WORMs, later CDs or DVDs, located in jukeboxes. 
+There was a database that recorded which file was on which medium. WORMs were written filewise, CDs/DVDs had to be "burned" as a whole.
+Several years later, disk space had become so large, that the need for optical storage and thus jukeboxes had disappeared. Instead, files had to be written to cloud storage.
+IXOS was eventually aquired by Opentext. As a developer I moved from C to Java, using C only for low level interface code. Security became more and more important.
+Also, while at the beginning it was most important never to loose any files, at the end it was very important to delete files after their retention period.
+For some years I fought against software patents,in vain. And I could watch how development was more and more influenced by legal aspects.
+Every now and then the management came up with new tools, that scanned code I had written in many years, and produced hundreds of messages, 
+mostly irrelevant, but the management always looks at numbers, and wants them to be zero. Our programs were based on dozens of third-party packages. 
+Once I counted more than 600 DLLs attached to our program. Always a lot of them were out of date, and worse, appeared in CVEs. This grew worse every year, 
+and still you were expected not only to maintain your old code, but produce new code as well. Also, we started to use Scrum, or what the management thought Scrum was.
+For us it mostly meant standups and two-week sprints. On each sprint you started, became faster, were fast, slowed down and stopped. No more "flows" over a longer period.
+Scrum notwhithstanding, deadlines were fixed. Someone told you what you had to do in the next sprint. Not more, not less. Especially not more. 
+When you were ready early, you were not allowed to do something more, because it produced a greater load on the test crew. You could only develop as much as the test
+crew said it can handle. I was glad when the time of retirement had come.
+## Currently ##
+I still like to program. I am amazed how much excellent software there is, and all of it for free. Like Visual Studio Code, Arduino, Eclipse, Python, Javascript, Node, Go, Vue, Typescript, Svelte, Django and many more. I produced some apps using Python/Kivy or Dart/Flutter. I wrote scripts for Google Forms and Sheets. I have a Raspberry Pi 3B running Mysql, Django, SQLAlchemy. All to be found here on Github.
