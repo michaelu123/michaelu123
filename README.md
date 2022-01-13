@@ -1,3 +1,4 @@
+# About myself
 My name is Michael Uhlenberg. I am a (meanwhile retired) programmer.
 I was born 1953 in Hamburg, Germany. I spent my childhood mainly in Wolfsburg,
 studied in Braunschweig, got a degree in Computer Science (Diplom-Informatiker) in 1977,
@@ -13,16 +14,18 @@ There was also a tape punch on which you could write the output data, or print t
 The program and data tapes were punched on a teleprinter. Editing meant to duplicate a tape up to a certain point, then 
 inserting new characters or skipping characters, then continue duplicating, and so on. Or you took scissors to cut your tape, 
 and put another piece of tape in between, with the help of scotch tape.
+The X1 had still ferrit cores as memory. Later, the X1 was taken apart, and the boards with the ferrit cores decorated rooms in the student residence.
+See https://en.wikipedia.org/wiki/Electrologica_X1 .
 ## ICL 1900 ##
 As a graduate student I had access to a real mainframe, an ICL 1900, which offered 24 bit words, card readers, line printers, tape drives,
-and magnetic disks. I remember the day when a heavy piece of equipment was lifted by a crane through a window into the computer centre. 
+and magnetic disks. I remember the day when a heavy piece of equipment was lifted by a crane through a window into the computer center. 
 That was a storage epansion of 256k words, i.e. 3*256k bytes. Amazingly, the computer had an Algol 68 compiler, by the British Royal Radar Establishment. 
 My diploma thesis was an Algol68 program that implemented a small relational database based on k-d-trees. 
 ## 8-bit microprocessor ##
 I also programmed on some 8-bit microprocessors, perhaps 6502,
 on which I used emulated 16-bit-arithmetic to implement digital filters. They were very slow, however.
 ## ICL 2900 ##
-In the last year the computer centre bought an ICL 2900 machine. This was a very advanced machine, with lots of advanced concepts. There is a Wikipedia article for it.
+In the last year the computer centre bought an ICL 2900 machine. This was a very advanced machine, with lots of advanced concepts. See https://en.wikipedia.org/wiki/ICL_2900_Series.
 # Siemens #
 ## Prisma, BS1000
 I started work in a group working on a hierarchical database system called Prisma. You could write programs for it in assembly language. 
@@ -57,7 +60,7 @@ For a couple of years PCS produced UNIX workstations based on Motorola, Intel 43
 And then of course appeared the IBM PC. PCS and many other companies disappeared or stopped producing Unix workstations. Nevertheless, one could say that these were
 the best days of my life, at least as far as the work is concerned. I stopped working as a hardware oriented guy, developping drivers and adapting to new machines, 
 frequently sitting with the hardware engineers in front of a digital analyzer.
-## IXOS, Opentext, Archives ##
+# IXOS, Opentext, Archives #
 One of the PCS founders had founded a new software company called IXOS. When I joined the company, it was doing projects and courses. 
 But then it started to develop products, in the archive field. We stored files on first WORMs, later CDs or DVDs, located in jukeboxes. 
 There was a database that recorded which file was on which medium. WORMs were written filewise, CDs/DVDs had to be "burned" as a whole.
@@ -70,8 +73,8 @@ mostly irrelevant, but the management always looks at numbers, and wants them to
 Once I counted more than 600 DLLs attached to our program. Always a lot of them were out of date, and worse, appeared in CVEs. This grew worse every year, 
 and still you were expected not only to maintain your old code, but produce new code as well. Also, we started to use Scrum, or what the management thought Scrum was.
 For us it mostly meant standups and two-week sprints. On each sprint you started, became faster, were fast, slowed down and stopped. No more "flows" over a longer period.
-Scrum notwhithstanding, deadlines were fixed. Someone told you what you had to do in the next sprint. Not more, not less. Especially not more. 
+Scrum notwithstanding, deadlines were fixed. Someone told you what you had to do in the next sprint. Not more, not less. Especially not more. 
 When you were ready early, you were not allowed to do something more, because it produced a greater load on the test crew. You could only develop as much as the test
 crew said it can handle. I was glad when the time of retirement had come.
-## Currently ##
+# Currently #
 I still like to program. I am amazed how much excellent software there is, and all of it for free. Like Visual Studio Code, Arduino, Eclipse, Python, Javascript, Node, Go, Vue, Typescript, Svelte, Django and many more. I produced some apps using Python/Kivy or Dart/Flutter. I wrote scripts for Google Forms and Sheets. I have a Raspberry Pi 3B running Mysql, Django, SQLAlchemy. All to be found here on Github.
