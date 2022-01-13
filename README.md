@@ -58,7 +58,7 @@ Sun did the same on their machines, and eventually there were a number of vendor
 Siemens had an official strategy of supporting Intel only, and our Motorola efforts were not well looked at. So a few colleagues and I moved to the PCS company. 
 For a couple of years PCS produced UNIX workstations based on Motorola, Intel 432 and Digital Alpha, but the competition eventually became ovewrwhelming. 
 And then of course appeared the IBM PC. PCS and many other companies disappeared or stopped producing Unix workstations. Nevertheless, one could say that these were
-the best days of my life, at least as far as the work is concerned. I stopped working as a hardware oriented guy, developping drivers and adapting to new machines, 
+the best years of my life, at least as far as the work is concerned. I stopped working as a hardware oriented guy, developping drivers and adapting to new machines, 
 frequently sitting with the hardware engineers in front of a digital analyzer.
 # IXOS, Opentext, Archives #
 One of the PCS founders had founded a new software company called IXOS. When I joined the company, it was doing projects and courses. 
